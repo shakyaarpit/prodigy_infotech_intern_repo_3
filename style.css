@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: cornflowerblue;
+}
+.timer{
+    color: white;
+}
+.stopWatch{
+    font-size: 160px;
+}
+.text{
+    font-size: 40px;
+}
+.btn{
+    
+    text-align: center;
+}
+.btn button{
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+  
+   
+    font-size: 23px;
+    cursor: pointer;
+    border-radius: 5px;
+}
